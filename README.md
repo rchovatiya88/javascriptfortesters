@@ -4,6 +4,21 @@ Study Guide for learning Javascript for QA testers by Ronak Chovatiya
 
 ## How to run JS code. 
 
-Easiest way to run `.js` code is open google chrome and right click 'Inspect Element' you can set variables and run code. 
+Easiest way to run `.js` code is open google chrome and right click 'Inspect Element'  go to  `Console` Tab, in which you write and use it as an Terminal. you can set variables and run code. 
 
 ![Try this](imgs/variables.png)
+
+
+
+## Vocabulary 
+
+- Variables
+    - Let 
+    - Var
+    - Const
+- Objects
+- Methods
+- Functions
+- Strings
+- Number
+- Boolean 
