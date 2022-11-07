@@ -18,6 +18,8 @@ Easiest way to run `.js` code is open google chrome and right click 'Inspect Ele
     - Const
 - Objects
 - Methods
+    - Property
+    - Parameters
 - Functions
 - Strings
 - Number
